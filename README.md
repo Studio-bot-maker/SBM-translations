@@ -1,3 +1,9 @@
+<p align="center">
+  <a title="DBM Translations" href="https://discord.gg/djcvWRpgHm" target="_blank">
+    <img src="https://github.com/Studio-bot-maker/SBM-translations/assets/132696257/d4e1ec2d-c76b-40da-88e5-e4d9d6e00707" width="200" alt="DBM Mods" />
+  </a>
+</p>
+
 # SBM-translations
 
 <a href="https://discord.gg/wjXz7jGgCw" rel="noopener nofollow ugc">
