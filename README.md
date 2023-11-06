@@ -1,4 +1,9 @@
 # SBM-translations
+
+<a href="https://discord.gg/wjXz7jGgCw" rel="noopener nofollow ugc">
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcompact%2Fsocial%2Fdiscord-plural_vector.svg&amp;n=-1" alt="discord-plural">
+</a>
+
 > [!NOTE]
 > Translations are not done officialy by the Developer but by the community, we cannot guarantee that specific languges will continue support. If you would like to see a continuation of a specific language please consider making a request here!
 
